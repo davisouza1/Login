@@ -17,7 +17,7 @@ body{
 main{
     width: 100vw;
     height: 100vh;
-    background-color: rgb(181, 219, 213);
+    background-color: rgb(225, 251, 251);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -74,6 +74,7 @@ main{
 }
 
 .imagem{
+    border-radius: 10px;
    width: 40vw;
 }
 
